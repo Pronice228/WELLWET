@@ -1,6 +1,6 @@
 import corm from './../assets/korm.jpg'
 
-import Accordion from "./Accordion";
+import Accordion from "./Fanat";
 
 export default function Card() {
   return (
